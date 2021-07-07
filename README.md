@@ -20,7 +20,7 @@ To set up project in your local environment, clone the project. Then cd to the p
 ```
 Then run,
 ```bash
-  nodemon app.js
+  node app.js
 ```
 Then open your browser window and go to http://localhost:3000
 
