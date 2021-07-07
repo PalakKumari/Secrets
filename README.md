@@ -1,7 +1,7 @@
 
 # Secrets
 
-A web app that lets you add your Secrets Anonymously. To see all the secrets submitted by people, register and login after setting up the project in your local environment.
+A web app that lets you share your Secrets Anonymously. To see all the secrets submitted by people, register and login after setting up the project in your local environment.
 
 
 ## Features
